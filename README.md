@@ -19,3 +19,9 @@ To analyze employee attrition patterns in an organization and uncover trends rel
 - Bar charts, donut charts, line graphs
 - Power BI slicers for interactivity
 
+---
+## Copyright Notice
+
+Copyright (c) 2025 Sumit Pal. All Rights Reserved.
+
+This project is not licensed for external distribution, modification, or commercial use without express written permission from the copyright holder.
